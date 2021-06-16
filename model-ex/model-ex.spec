@@ -2,16 +2,16 @@ model:
   categories:
   - test
   dataset:
-    sha: 64ff14225cb79d8bbfdf3f1723f04b298fbe7c0d
-    tag: test__dataset-ex__1
+    sha: 99383ba7d8a770283fef7cbf696adcfac0d983aa
+    tag: test__dataset-ex__3
   labels:
-    sha: 0acb99377d5728771a43d559d88dbb7b66c86806
-    tag: test__labels-ex__2
+    sha: 34dea322e202837354eadb2f675aec8ef03224fd
+    tag: test__labels-ex2__2
   manifest:
-    amount: 2
+    amount: 3
     files: MANIFEST.yaml
-    size: 18 Bytes
+    size: 27 Bytes
     storage: s3h://ml-git-qa-us-east-1
   mutability: flexible
   name: model-ex
-  version: 2
+  version: 3
